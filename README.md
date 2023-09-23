@@ -76,10 +76,10 @@ To get a quick overview, don't miss the [video summary](https://www.loom.com/sha
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live Demo Link](https://fmanimashaun.github.io/bookstore-cms/)
+> [Live Demo Link](https://fmanimashaun.github.io/contact-app/)
 
 <p align="center">
-  <img width="500" src="screenshot/demo.png">
+  <img width="500" src="screenshots/demo.png">
 </P>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -91,7 +91,7 @@ To get a quick overview, don't miss the [video summary](https://www.loom.com/sha
 To get a local copy up and running follow these simple example steps.
 ### Setup <a name="setup"></a>
 
-- Open your GitHub account the repository's [link](https://github.com/fmanimashaun/bookstore-cms)
+- Open your GitHub account the repository's [link](https://github.com/fmanimashaun/contact-app)
 
 ### Prerequisites <a name="prerequisites"></a>
 
@@ -121,9 +121,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add various page components.
-- [ ] Upgrade the book card with new interactive functures
-- [ ] Add a progress bar to show the progress of the book.
+- [ ] add user authenitcation for private contact management.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -137,7 +135,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgements <a name="acknowledgements"></a>
 
-- [Microverse](https://www.microverse.org/)
+- [React-router team](https://reactrouter.com/)
 
 ## 📝 License <a name="license"></a>
 This project is [MIT](./LICENSE) licensed.
